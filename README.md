@@ -1,4 +1,4 @@
-<h1 align="center">Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h1>
+<h1 align="center">[AAAI 2026]Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h1>
 
 <div align="center">
 <b>
